@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T14:20:12.030Z" agent="5.0 (Windows)" version="14.5.10" etag="NiELEoeaNziomBb5R0Uz" type="github"><diagram id="hBR-ZQxjsDNrIqzvyG3u">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-14T14:50:54.484Z" agent="5.0 (Windows)" etag="0sGOhnSOOqMYE2tkp1kf" version="14.5.10" type="github">
+  <diagram id="hBR-ZQxjsDNrIqzvyG3u" name="Page-1">
+    <mxGraphModel dx="1852" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UN09nPL0uNdXGOPU2P66-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="UN09nPL0uNdXGOPU2P66-2" target="UN09nPL0uNdXGOPU2P66-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sinovi.uk/images/articles/cw-dashboard.jpg;" vertex="1" parent="1">
+          <mxGeometry y="-10" width="540" height="372.81" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="UN09nPL0uNdXGOPU2P66-3" target="UN09nPL0uNdXGOPU2P66-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.booleanworld.com/wp-content/uploads/2018/02/prometheus-webui.png;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-4" width="520" height="314" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-4" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-5" value="CloudWatch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="349" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-6" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-7" value="Prometheus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1400" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-10" value="Prometheus is an open-source monitoring system built around a time &lt;br style=&quot;font-size: 17px&quot;&gt;series database, able to receive data and store it, in addition to &lt;br style=&quot;font-size: 17px&quot;&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;supporting queries, graphs, and in-built alerting. &lt;br style=&quot;font-size: 17px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;Connecting to target endpoints to request metrics via HTTP, Prometheus provides a multi-dimensional data model wherein metrics can be defined by names &lt;br style=&quot;font-size: 17px&quot;&gt;&lt;/div&gt;and/or tags which identify them as part of a unique time series. &lt;br style=&quot;font-size: 17px&quot;&gt;Open-source Prometheus metrics have a default retention of 15 days, &lt;br style=&quot;font-size: 17px&quot;&gt;though with Hosted Prometheus by MetricFire data can be stored for up to&lt;br style=&quot;font-size: 17px&quot;&gt;&lt;div style=&quot;font-size: 17px&quot;&gt; 2 years. &lt;br style=&quot;font-size: 17px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;The Prometheus query language (PromQL) can then be used to &lt;/div&gt;&lt;div&gt;explore metrics and draw simple graphs. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Prometheus is open source, and free.&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;Prometheus is grouped under &quot;Monitoring Tools&quot;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;Prometheus gets data from API Server.&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="400" width="500" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-11" value="&lt;div&gt;&amp;nbsp;CloudWatch is an AWS service for monitoring and managing infrastructure &lt;/div&gt;&lt;div&gt;systems or application performance. &lt;br&gt;&lt;/div&gt;&lt;div&gt;The resources can be on AWS, &lt;/div&gt;&lt;div&gt;on-premises or a combination of both. &lt;br&gt;&lt;/div&gt;&lt;div&gt;The application performance data &lt;/div&gt;and the infrastructure monitoring information can be simultaneously &lt;br style=&quot;font-size: 15px&quot;&gt;&lt;div&gt;displayed on the same dashboard, as either logs or metrics. &lt;br&gt;&lt;/div&gt;&lt;div&gt;CloudWatch &lt;/div&gt;does everything from collecting the metrics and logs to monitoring, &lt;br style=&quot;font-size: 15px&quot;&gt;&lt;div&gt;alerting and analyzing. &lt;br&gt;&lt;/div&gt;&lt;div&gt;CloudWatch has both the Alarms and Events &lt;/div&gt;functions, which notifies you in the case where specific conditions are &lt;br style=&quot;font-size: 15px&quot;&gt;&lt;div&gt;realized. &lt;br&gt;&lt;/div&gt;&lt;div&gt;CloudWatch charges on a pay-per-metric basis, where the cost &lt;/div&gt;for processing large amounts of metrics can grow substantially higher &lt;br style=&quot;font-size: 15px&quot;&gt;&lt;div&gt;than competing monitoring solutions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For large amounts of metrics, Cloud Watch grows to be substantially more expensive than competitors. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;Amazon CloudWatch can be classified as a tool in the &quot;Cloud Monitoring&quot; category,&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;Amazon CloudWatch is &lt;br/&gt;basically a metrics repository. An AWS service—such as Amazon EC2—puts &lt;br/&gt;metrics into the repository, and you retrieve statistics based on those &lt;br/&gt;metrics.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="95" y="400" width="425" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-14" value="Common Points" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="800" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UN09nPL0uNdXGOPU2P66-17" value="&lt;div style=&quot;font-size: 22px&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;Common Points&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;In both We can create alerts/ alarms to send notification thru Emails or other notification channels&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" width="400" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
